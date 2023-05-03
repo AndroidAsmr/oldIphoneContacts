@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">oldIphoneContacts</string>
+    <string name="all_contacts">All Contacts</string>
+    <string name="contacts">Contacts</string>
+</resources>
